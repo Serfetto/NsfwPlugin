@@ -22,4 +22,4 @@ A script for automatically hiding detected objects on the user's screen.
 
 Upd: This script does not work on the Linux operating system
 
-P.S. You can find more detailed information about the learning model in this [repository](https://github.com/Serfetto/NSFW-Model)
+
