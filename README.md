@@ -16,7 +16,7 @@ A script for automatically hiding detected objects on the user's screen.
     - On the processor (CPU): ```pip install dxcam screeninfo pyqt5 ultralytics```
     - On the graphics card (GPU):
       1. ```pip install dxcam screeninfo pyqt5 ultralytics```
-      2. Make sure that you have the [CUDA Toolkit] installed(https://developer.nvidia.com/cuda-toolkit ), [cuDNN](https://developer.nvidia.com/cudnn), [Visual Studio](https://visualstudio.microsoft.com), [PyTorch](https://pytorch.org/get-started/locally/).
+      2. Make sure that you have the [CUDA Toolkit] installed](https://developer.nvidia.com/cuda-toolkit), [cuDNN](https://developer.nvidia.com/cudnn), [Visual Studio](https://visualstudio.microsoft.com), [PyTorch](https://pytorch.org/get-started/locally/).
 ## Launch
 - ```python NsfwBlur.py```
 
