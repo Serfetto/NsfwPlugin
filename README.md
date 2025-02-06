@@ -7,7 +7,7 @@ A script for automatically hiding detected objects on the user's screen.
 1. **Install Python**
     - Download and install [Python](https://www.python.org/downloads/).
 2. **Clone or download the repository**:
-    - ``git clone https://github.com/Serfetto/NSFW-Classification ``
+    - ``git clone https://github.com/Serfetto/NsfwPlugin``
 3. **Create and activate a virtual environment**(You can skip this point):
     1. ```cd NsfwPlugin```
     2. ```python -m venv.venv```
