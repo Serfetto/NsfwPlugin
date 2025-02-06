@@ -13,6 +13,7 @@ A script for automatically hiding detected objects on the user's screen.
     2. ```python -m venv.venv```
     3. ```.venv\Scripts\activate```
 4. **Install dependencies**
+    - Download [model](https://drive.google.com/file/d/1Ne74BR39pZfNcK_60Iljd9h5bT5j-YcQ)
     - On the processor (CPU): ```pip install dxcam screeninfo pyqt5 ultralytics```
     - On the graphics card (GPU):
       1. ```pip install dxcam screeninfo pyqt5 ultralytics```
