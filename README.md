@@ -10,7 +10,7 @@ A script for automatically hiding detected objects on the user's screen.
     - ``git clone https://github.com/Serfetto/NsfwPlugin``
 3. **Create and activate a virtual environment**(You can skip this point):
     1. ```cd NsfwPlugin```
-    2. ```python -m venv.venv```
+    2. ```python -m venv .venv```
     3. ```.venv\Scripts\activate```
 4. **Install dependencies**
     - Download [model](https://drive.google.com/file/d/1Ne74BR39pZfNcK_60Iljd9h5bT5j-YcQ)
